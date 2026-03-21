@@ -11,7 +11,6 @@ Element at position [i, j] becomes [j, i].
 🧠 How the Program Works
 
 A 2D integer array arr1 is declared and initialized:
-
 int[,] arr1 = { 
     { 1, 2, 3 }, 
     { 4, 5, 6 }, 
