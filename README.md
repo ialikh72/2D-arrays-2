@@ -1,6 +1,5 @@
 📘 Matrix Transpose Program (C#)
 📌 Description
-
 This C# program creates a 3×3 matrix, displays it on the screen, and then prints its transpose.
 
 A transpose of a matrix is formed by converting rows into columns.
