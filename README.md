@@ -1,6 +1,4 @@
 
-
-
 📘 Matrix Transpose Program (C#)
 
 📌 Description
